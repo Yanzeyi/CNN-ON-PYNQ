@@ -77,7 +77,7 @@ void Conv_Layer(float input[], float* output, float weight[], float bias[])
 					}
 					
 					result += Conv<KERNELSIZE>(kernel, temp);
-					std::cout << "结果是" << result << " ";
+					std::cout << "陆谩鹿没脢脟" << result << " ";
 					printf("\n");
 				}
 				output[cnt] = result + bias[num];
